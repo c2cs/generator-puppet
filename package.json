@@ -1,12 +1,12 @@
 {
   "name": "generator-puppet",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "0.1.0",
+  "description": "A yeoman generator for puppet modules",
   "keywords": [
     "yeoman-generator"
   ],
-  "homepage": "https://github.com/vmadman/generator-puppet",
-  "bugs": "https://github.com/vmadman/generator-puppet/issues",
+  "homepage": "https://github.com/c2cs/generator-puppet",
+  "bugs": "https://github.com/c2cs/generator-puppet/issues",
   "author": {
     "name": "Luke Chavers",
     "email": "luke@c2cschools.com",
@@ -15,7 +15,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vmadman/generator-puppet.git"
+    "url": "git@github.com:c2cs/generator-puppet.git"
   },
   "scripts": {
     "test": "mocha"

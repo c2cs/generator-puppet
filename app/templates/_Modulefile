@@ -1,0 +1,11 @@
+name    '<%= ans.puppetUser %>-<%= ans.projectName %>'
+version '<%= ans.version %>'
+source ''
+author '<%= ans.fullName %>'
+license '<%= ans.license %>'
+summary '<%= ans.desc %>'
+description '<%= ans.desc %>'
+project_page ''
+
+## Add dependencies, if any:
+#dependency 'puppetlabs/stdlib', '2.x'

@@ -1,0 +1,13 @@
+{
+	"name": "<%= ans.puppetUser %>-<%= ans.projectName %>",
+	"version": "<%= ans.version %>",
+	"summary": "<%= ans.desc %>",
+	"author": "<%= ans.fullName %>",
+	"description": "<%= ans.desc %>",
+	"dependencies": [],
+	"types": [],
+	"checksums": {},
+	"source": "",
+	"project_page": "",
+	"license": "<%= ans.license %>"
+}
